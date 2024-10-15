@@ -14,3 +14,9 @@ Adafruit_SSD1306: A library that controls OLED displays, specifically the SSD130
 Purpose of this project is involves working with boolean logic, making it a great educational tool for learning or teaching the fundamentals of logic gates. Feel free to explore, modify, and use it as a foundation for other logic-based projects.
 
 Check out the latest version of the project [here](https://github.com/ARaW10/Projek1-Arduino/releases/tag/arduino-project1.4).
+
+Here is my example of my project:
+
+![Screenshot 2024-10-15 094134](https://github.com/user-attachments/assets/980650fe-76e7-48a6-b740-1f3355288a1d) 
+
+![image](https://github.com/user-attachments/assets/dbe764a0-d470-4bb8-8f00-33d7cd08f49c)
